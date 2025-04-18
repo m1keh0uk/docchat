@@ -1,0 +1,1 @@
+![test cases](https://github.com/mikeizbicki/docchat/workflows/tests/badge.svg)
