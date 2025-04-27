@@ -3,3 +3,5 @@
 notes.py
 docsum copy
 docchat2.py
+__pychache__
+.venv
