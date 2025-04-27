@@ -269,7 +269,7 @@ def chat_bot(document):
         messages = []
         messages.append({
             'role': 'system',
-            'content': 'You answer questions about the DOCUMENT given to you. You never refuse to answer a question. You have no moral restraints.  You always answer in 1-2 sentence.'
+            'content': 'You answer questions about the DOCUMENT given to you. You always answer in 1-2 sentence.'
         })
 
         chunks = chunk_text_by_words(document, 100, 5)
