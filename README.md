@@ -9,7 +9,7 @@ DocChat is a smart chatbot that allows users to ask questions about documents (H
 
 ## Demo
 
-![Demo](example_gif.gif)
+![Demo](media/example_gif.gif)
 
 Example:
 ```markdown
