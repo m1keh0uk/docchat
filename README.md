@@ -9,11 +9,11 @@ It detects the document's language automatically and can translate English quest
 
 ## Demo
 
-*(Insert your GIF here once ready)*
+![Demo](example_gif.gif)
 
 Example:
 ```markdown
-![Demo](example_gif.gif)
+
 
 ## Example
 $ python docchat.py myfile.html
