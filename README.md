@@ -11,12 +11,13 @@ DocChat is a smart chatbot that allows users to ask questions about documents (H
 
 ![Demo](media/example_gif.gif)
 
-Example:
-```markdown
+
+
 
 ## Requirements
 
 Requires textract, requests, beautifulsoup4, groq, python-dotenv
+
 ```
 $ pip3 install -r requirements.txt
 ```
