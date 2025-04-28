@@ -4,4 +4,3 @@ beautifulsoup4
 groq
 python-dotenv
 spacy
-py3langid
