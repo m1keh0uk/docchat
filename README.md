@@ -17,9 +17,13 @@ Example:
 ## Requirements
 
 Requires textract, requests, beautifulsoup4, groq, python-dotenv
+```
 $ pip3 install -r requirements.txt
+```
 
 ## Example
+
+```
 $ python docchat.py decleration.txt
 
 docchat> Whats the most common theme?
@@ -27,3 +31,4 @@ DOCCHAT: The most common theme in the Declaration of Independence is the idea of
 
 docchat> How does the rocket engine work underwater?
 DOCCHAT: Sorry, this document does not contain information about underwater rocket engines.
+```
